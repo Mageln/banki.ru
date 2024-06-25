@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: #F1F5F9;
+}
+
+ul{
+    list-style: none;
+}
+
